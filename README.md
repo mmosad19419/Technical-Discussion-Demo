@@ -14,4 +14,4 @@ this is a good example of gist [my code](https://gist.github.com/mmosad19419/7c7
 
 
 ### Colab demo
-this is a demo of colab [notebook}(https://colab.research.google.com/drive/1kAruWlzI64TVAaoRgBEropfUQBbEOSlv?usp=sharing)
+this is a demo of colab [notebook](https://colab.research.google.com/drive/1kAruWlzI64TVAaoRgBEropfUQBbEOSlv?usp=sharing)
